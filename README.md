@@ -4,15 +4,15 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://ibb.co/YPJTP6v" alt="project-screenshot" >
+<img src="https://i.imghippo.com/files/zZB4665U.png" alt="project-screenshot" >
 
-<img src="https://prnt.sc/tJTjKJfRaDvP" alt="project-screenshot">
+<img src="https://i.imghippo.com/files/hds2209Po.png" alt="project-screenshot">
 
-<img src="https://prnt.sc/9GdYjL_LCWG0" alt="project-screenshot">
+<img src="https://i.imghippo.com/files/QnPE8367nxE.png" alt="project-screenshot">
 
-<img src="https://prnt.sc/zYiRxU0bOrJq" alt="project-screenshot">
+<img src="https://i.imghippo.com/files/CXI7887Zog.png" alt="project-screenshot">
 
-<img src="https://prnt.sc/P_kGNWhjeHW4" alt="project-screenshot">
+<img src="https://i.imghippo.com/files/p5831RUM.png" alt="project-screenshot">
 
   
   

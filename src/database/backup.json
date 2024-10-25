@@ -1,0 +1,56 @@
+{
+    "system": true,
+    "definition": {
+        "functionsTicket": {
+            "notifyuser": true,
+            "assumir": true,
+            "call": true,
+            "renomear": true,
+            "gerenciar": true,
+            "motivo": false
+        },
+        "channels": {
+            "logs": "1293017554880565258",
+            "feedback": "1296977457555181701",
+            "category": "1293017039086026786"
+        },
+        "role": "1293017081566199833"
+    },
+    "panel": {
+        "mensagem": {
+            "content": false,
+            "embeds": {
+                "title": "✨ Trident Network: Painel de Tickets ✨",
+                "desc": "Bem-vindo ao Painel de Tickets do Trident Network, um ponto centralizado para toda a assistência e suporte que você possa precisar. Este painel é projetado para proporcionar uma experiência perfeita e eficiente, garantindo que todas as suas questões e preocupações sejam tratadas com a máxima prioridade e profissionalismo. Aqui está um detalhamento abrangente de como nosso painel pode servir você:\n\n🌊 Abrir Tickets\nO primeiro passo para obter suporte é abrir um ticket. Seja você um jogador novo ou veterano, qualquer problema técnico, comportamento inadequado de outros jogadores ou sugestões para melhorias podem ser relatados através de um ticket. É fácil e rápido:\n\nIdentificação do Problema: Escolha a categoria que melhor descreve seu problema. Isso nos ajuda a direcionar seu ticket para a equipe adequada.\n\nDescrição Detalhada: Forneça uma descrição detalhada do problema. Quanto mais informações você puder fornecer, mais fácil será para nossa equipe entender e resolver seu problema.\n\nAnexos e Capturas de Tela: Se possível, anexe capturas de tela ou arquivos relevantes que possam ajudar a ilustrar o problema.\n\n🗂️ Gerenciar Tickets\nAcompanhar o status de seus tickets é simples. O painel permite que você visualize o status de cada ticket aberto, saiba qual membro da equipe está responsável por ele, e acompanhe cada atualização em tempo real. Nossa interface amigável torna fácil para você:\n\nVisualizar Atualizações: Receba notificações sobre o progresso do seu ticket.\n\nComunicação Direta: Troque mensagens diretamente com o membro da equipe designado ao seu ticket. Isso garante uma comunicação clara e eficiente.\n\nFechamento de Tickets: Uma vez que seu problema for resolvido, você pode fechar o ticket. Também temos um sistema de feedback onde você pode avaliar o suporte recebido.\n\n🔱 Histórico Completo\nManter um registro de todos os seus tickets é importante para referência futura. O Painel de Tickets do Trident Network mantém um histórico completo de todos os tickets abertos e fechados, permitindo que você:\n\nAcesse Informações Passadas: Consulte soluções anteriores que podem ajudar a resolver problemas semelhantes.\n\nFeedback e Avaliação: Veja o feedback e avaliações que você forneceu anteriormente, ajudando-nos a melhorar constantemente nosso serviço.\n\n🌟 Outros Recursos\nAlém das funcionalidades principais, nosso painel oferece recursos adicionais para melhorar sua experiência:\n\nFAQs e Artigos de Ajuda: Acesse uma biblioteca de perguntas frequentes e artigos úteis que podem fornecer soluções rápidas para problemas comuns.\n\nTutoriais em Vídeo: Assista a tutoriais em vídeo que demonstram como utilizar várias funcionalidades do servidor e resolver problemas comuns.\n\nSuporte Prioritário: Jogadores VIP ou com planos especiais podem acessar suporte prioritário para garantir que suas questões sejam tratadas com ainda mais rapidez.\n\n📈 Melhoria Contínua\nNosso compromisso é com a melhoria contínua. Regularmente analisamos o feedback dos jogadores e os dados de suporte para identificar áreas de melhoria e implementar novas funcionalidades. Sua opinião é crucial para nós, e estamos sempre abertos a sugestões.\n\nEnquetes de Satisfação: Participar de enquetes nos ajuda a entender melhor suas necessidades.\n\nComunidade Ativa: Participe de discussões em nossa comunidade para compartilhar suas ideias e ajudar a moldar o futuro do Trident Network.\n\n🔒 Segurança e Privacidade\nGarantir a segurança e privacidade das suas informações é nossa prioridade. Todo o sistema de tickets é protegido com as mais avançadas medidas de segurança para garantir que suas informações pessoais e detalhes de problemas sejam tratados com a máxima confidencialidade.\n\nCriptografia de Dados: Todas as informações trocadas são criptografadas para proteção adicional.\n\nPolítica de Privacidade: Leia nossa política de privacidade para entender como suas informações são protegidas e utilizadas.\n\nAcreditamos que um suporte eficiente é a espinha dorsal de uma comunidade de jogadores for",
+                "banner": "https://tridentnetwork.azuriom.cloud/public-8e72826a-dae8-443f-a189-fba6bab876b8/img/banner2.png",
+                "cor": "#00BFFF"
+            },
+            "msg": {
+                "content": "Não Definido",
+                "banner": null
+            }
+        },
+        "functions": {
+            "Denuncia": {
+                "predesc": "Denunciar jogadores",
+                "desc": "Não Definido",
+                "banner": null,
+                "emoji": null
+            },
+            "Compras": {
+                "predesc": "Para a realização de compras de vips",
+                "desc": "Não Definido",
+                "banner": null,
+                "emoji": null
+            },
+            "Suporte": {
+                "predesc": "para perguntas e duvidas",
+                "desc": "Não Definido",
+                "banner": null,
+                "emoji": null
+            }
+        },
+        "button": false,
+        "messages": []
+    }
+}

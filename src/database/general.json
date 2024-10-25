@@ -31,23 +31,23 @@
             }
         },
         "functions": {
-            "Denuncia": {
-                "predesc": "Denunciar jogadores",
+            "Suporte": {
+                "predesc": "para perguntas e duvidas",
                 "desc": "Não Definido",
                 "banner": null,
-                "emoji": null
+                "emoji": "1295357879603171328"
             },
             "Compras": {
                 "predesc": "Para a realização de compras de vips",
                 "desc": "Não Definido",
                 "banner": null,
-                "emoji": null
+                "emoji": "1153041897779105953"
             },
-            "Suporte": {
-                "predesc": "para perguntas e duvidas",
+            "Denuncia": {
+                "predesc": "Denunciar jogadores",
                 "desc": "Não Definido",
                 "banner": null,
-                "emoji": null
+                "emoji": "1292889635713847326"
             }
         },
         "button": false,
